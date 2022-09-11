@@ -13,6 +13,8 @@
 6. **The *Team_Attributes* Table:** contains 42 columns, can be linked to the _Team_ table using team IDs.
 7. **The *Player_Attributes*  Table:** contains 25 columns, can be linked to the _Player_ table using player IDs.
 
+I extracted data from these tables using SQL and posed the following questions:
+
 ### Question(s) for Analysis
 1. What teams in the England Premier League improved the most over the time period?
 2. What team attributes lead to the most victories?
